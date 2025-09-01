@@ -17,14 +17,14 @@
 **Languages:** C, C++, Embedded C, Shell Scripting  
 **Microcontrollers:** PIC18F4580, Arduino UNO/Nano  
 **Protocols:** UART, SPI, I2C, CAN  
-**Tools & IDEs:** GCC, MPLAB X, GDB, Qt Creator, Arduino IDE  
+**Tools & IDEs:** GCC, MPLAB X, GDB, Arduino IDE  
 **Linux Skills:** System calls, IPC, Sockets, Multithreading  
-**Others:** Data Structures, Qt GUI Development  
+**Others:** Data Structures 
 
 ---
 
 ### 🔥 Projects (Pinned)  
-- 🔌 [IoT-Based Smart Energy Meter](#) – Real-time energy monitoring, billing & theft detection  
+- 🔌 [IoT-Based Smart Energy Meter](#) – Real-time energy monitoring, billing & controlling 
 - 🛰️ [Car Black Box](#) – Event data recorder using PIC18F4580  
 - 💻 [MiniShell](#) – Linux command-line shell with process & signal handling  
 - 🖼️ [Image Steganography](#) – LSB encoding/decoding in BMP files  
