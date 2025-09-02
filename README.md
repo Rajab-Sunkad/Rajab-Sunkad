@@ -1,10 +1,13 @@
-# Hi there, I'm Rajab 👋  
+# Hi there, I'm Rajab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> 
 
 🚀 **Embedded Systems & IoT Enthusiast** | Passionate about designing real-time embedded solutions  
+![Profile views](https://komarev.com/ghpvc/?username=Rajab-Sunkad&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ### 👨‍💻 About Me  
+<img align="right" src="giphy.gif" width="300">
+
 - 🎓 B.E. in **Electronics & Communication Engineering** (VTU)  
 - 💻 Hands-on with **C, OOPs with C++, Microcontrollers (PIC18F4580), Embedded Linux, IoT**  
 - 🔧 Skilled in **UART, SPI, I2C, CAN protocols** and **Linux internals**  
@@ -19,23 +22,26 @@
 **Protocols:** UART, SPI, I2C, CAN  
 **Tools & IDEs:** GCC, MPLAB X, GDB, Arduino IDE  
 **Linux Skills:** System calls, IPC, Sockets, Multithreading  
-**Others:** Data Structures 
+**Others:** Data Structures  
 
 ---
 
 ### 🔥 Projects  
-- 🔌 [IoT-Based Smart Energy Meter](#) – Real-time energy monitoring, billing & controlling 
-- 🛰️ [Car Black Box](#) – Event data recorder using PIC18F4580  
-- 💻 [MiniShell](#) – Linux command-line shell with process & signal handling  
-- 🖼️ [Image Steganography](#) – LSB encoding/decoding in BMP files  
-- 🎵 [MP3 Tag Reader](#) – Extract ID3 metadata from audio files  
+- 🔌 [IoT-Based Smart Energy Meter](https://github.com/Rajab-Sunkad/Smart-Energy-Meter) – Real-time energy monitoring, billing & controlling 
+- 🛰️ [Car Black Box](https://github.com/Rajab-Sunkad/Car-Black-Box) – Event data recorder using PIC18F4580  
+- 💻 [MiniShell](https://github.com/Rajab-Sunkad/MiniShell) – Linux command-line shell with process & signal handling  
+- 🖼️ [Image Steganography](https://github.com/Rajab-Sunkad/Image-Steganography) – LSB encoding/decoding in BMP files  
+- 🎵 [MP3 Tag Reader](https://github.com/Rajab-Sunkad/MP3-Tag-Reader) – Extract ID3 metadata from audio files  
+- 📑 [Lexical Analyzer](https://github.com/Rajab-Sunkad/Lexical-Analyzer) – Tokenizes C source code into identifiers, keywords, operators  
+- 🔢 [Arbitrary Precision Calculator](https://github.com/Rajab-Sunkad/APC) – Big number arithmetic using linked lists  
+- 🔎 [Inverted Search](https://github.com/Rajab-Sunkad/Inverted-Search) – Index-based search engine using Hash Tables & Linked Lists  
 
 ---
 
 ### 🏆 Achievements & Certifications  
-- 🎓 Certified in **Embedded Systems & IoT** – SirIntel Technologies (2023)  
-- 🎓 **Advanced Embedded Systems Certification** – Emertxe Technologies (2025)  
-- 🏅 Shortlisted for **Rajiv Gandhi Entrepreneurship Program 2024**  
+- 🎓 **Advanced Embedded Systems Certification** – Emertxe Technologies (2025)
+- 🏅 Shortlisted for **Rajiv Gandhi Entrepreneurship Program 2024**
+- 🎓 Certified in **Embedded Systems & IoT** – SirIntel Technologies (2023)      
 - 📡 Attended **LoRaWAN IoT Innovation Webinar**  
 
 ---
@@ -50,7 +56,7 @@
 ### 🌐 Connect With Me  
 📧 **rajabjsunkad3@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/rajab-sunkad-b9040b270/)  
-📂 [Resume](file:///C:/Users/3420/Downloads/Rajab_resume.pdf)  
 
 ---
+
 ⭐️ *“Turning ideas into firmware, one line of code at a time!”*  
