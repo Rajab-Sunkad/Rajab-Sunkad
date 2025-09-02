@@ -6,7 +6,7 @@
 ---
 <!-- Coding GIF aligned properly -->
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-### 👨‍💻 About Me  
+👨‍💻 About Me  
 
 - 🎓 B.E. in **Electronics & Communication Engineering** (VTU)  
 - 💻 Hands-on with **C, OOPs with C++, Microcontrollers (PIC18F4580), Embedded Linux, IoT**  
