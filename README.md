@@ -23,7 +23,7 @@
 
 ---
 
-### 🔥 Projects (Pinned)  
+### 🔥 Projects  
 - 🔌 [IoT-Based Smart Energy Meter](#) – Real-time energy monitoring, billing & controlling 
 - 🛰️ [Car Black Box](#) – Event data recorder using PIC18F4580  
 - 💻 [MiniShell](#) – Linux command-line shell with process & signal handling  
