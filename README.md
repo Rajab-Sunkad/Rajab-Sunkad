@@ -6,7 +6,8 @@
 ---
 
 ### 👨‍💻 About Me  
-<img align="right" src="giphy.gif" width="300">
+<!-- Coding GIF aligned to right with bigger size -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 B.E. in **Electronics & Communication Engineering** (VTU)  
 - 💻 Hands-on with **C, OOPs with C++, Microcontrollers (PIC18F4580), Embedded Linux, IoT**  
@@ -48,7 +49,7 @@
 
 ### 📊 GitHub Stats  
 ![Rajab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajab-Sunkad&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajabsunkad&layout=compact) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajab-Sunkad&theme=radical)  
 
 ---
