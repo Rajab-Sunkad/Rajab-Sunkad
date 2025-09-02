@@ -4,10 +4,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Rajab-Sunkad&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-### 👨‍💻 About Me  
-<!-- Coding GIF aligned to right with bigger size -->
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+<!-- Coding GIF aligned properly -->
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### 👨‍💻 About Me  
 
 - 🎓 B.E. in **Electronics & Communication Engineering** (VTU)  
 - 💻 Hands-on with **C, OOPs with C++, Microcontrollers (PIC18F4580), Embedded Linux, IoT**  
