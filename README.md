@@ -48,7 +48,7 @@
 
 ### 📊 GitHub Stats  
 ![Rajab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajab-Sunkad&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajab-Sunkad&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajab-Sunkad&theme=radical)  
 
 ---
