@@ -4,10 +4,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Rajab-Sunkad&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-
 ### 👨‍💻 About Me  
 <!-- Coding GIF aligned to right with bigger size -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 - 🎓 B.E. in **Electronics & Communication Engineering** (VTU)  
 - 💻 Hands-on with **C, OOPs with C++, Microcontrollers (PIC18F4580), Embedded Linux, IoT**  
@@ -49,7 +49,6 @@
 
 ### 📊 GitHub Stats  
 ![Rajab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajab-Sunkad&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajabsunkad&layout=compact) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajab-Sunkad&theme=radical)  
 
 ---
