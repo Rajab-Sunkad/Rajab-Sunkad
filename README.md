@@ -50,7 +50,7 @@
 ### 🌐 Connect With Me  
 📧 **rajabjsunkad3@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/rajab-sunkad-b9040b270/)  
-📂 [Resume](#)  
+📂 [Resume](file:///C:/Users/3420/Downloads/Rajab_resume.pdf)  
 
 ---
 ⭐️ *“Turning ideas into firmware, one line of code at a time!”*  
